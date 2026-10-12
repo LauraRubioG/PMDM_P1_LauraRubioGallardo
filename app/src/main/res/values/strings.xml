@@ -8,7 +8,7 @@
     <string name="author_name">Desarrollado por Laura Rubio</string>
 
     <string name="lbl_loading" translatable="false">Cargando aventura...</string>
-    <!-- Array de strings exigido en la rúbrica -->
+    <!-- Array para agrupar en lista el menu -->
     <string-array name="opciones_menu">
         <item>Café</item>
         <item>Matcha</item>
