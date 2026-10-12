@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <!-- Marrón café -->
-    <color name="coffee_primary">#4E342E</color>
-    <!-- Verde matcha -->
-    <color name="matcha_accent">#8BC34A</color>
-    <color name="background_light">#F5F5F5</color>
-</resources>
+    <resources>
+        <!-- Colores base -->
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+        <color name="text_dark">#2E2723</color> <!-- Marrón muy oscuro para que se lea perfecto -->
+        <color name="background_arena">#F4EFE6</color> <!-- Tono arena/lona muy claro y cálido -->
+
+        <!-- Colores semánticos (Botones) -->
+        <color name="btn_coffee">#6D422C</color> <!-- Marrón tostado -->
+        <color name="btn_matcha">#3E6B37</color> <!-- Verde hoja natural -->
+        <color name="btn_breakfast">#C25E3B</color> <!-- Terracota cálido -->
+        <color name="btn_equipment">#5F7174</color> <!-- Gris pizarra/roca -->
+    </resources>

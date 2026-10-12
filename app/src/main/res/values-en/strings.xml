@@ -7,4 +7,13 @@
     <string name="btn_breakfast">Nomad Breakfasts</string>
     <string name="btn_equipment">Barista Equipment</string>
     <string name="author_name">Developed by Laura Rubio</string>
+
+    <string name="lbl_loading">Loading adventure...</string>
+    <!-- Array de strings exigido en la rúbrica -->
+    <string-array name="opciones_menu">
+        <item>Coffee</item>
+        <item>Matcha</item>
+        <item>Food</item>
+    </string-array>
+
 </resources>

@@ -6,4 +6,13 @@
     <string name="btn_breakfast">Desayunos Nómadas</string>
     <string name="btn_equipment">Equipaje del Barista</string>
     <string name="author_name">Desarrollado por Laura Rubio</string>
+
+    <string name="lbl_loading" translatable="false">Cargando aventura...</string>
+    <!-- Array de strings exigido en la rúbrica -->
+    <string-array name="opciones_menu">
+        <item>Café</item>
+        <item>Matcha</item>
+        <item>Comida</item>
+    </string-array>
+
 </resources>
