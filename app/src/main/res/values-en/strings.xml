@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PMDM_P1_LauraRubio</string>
+    <string name="title_welcome">Welcome to NomadBrew</string>
+    <string name="btn_coffee">Coffee Recipes</string>
+    <string name="btn_matcha">Matcha Corner</string>
+    <string name="btn_breakfast">Nomad Breakfasts</string>
+    <string name="btn_equipment">Barista Equipment</string>
+    <string name="author_name">Developed by Laura Rubio</string>
+</resources>

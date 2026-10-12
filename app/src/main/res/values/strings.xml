@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PMDM_P1_LauraRubio</string>
+    <string name="title_welcome">Bienvenido a NomadBrew</string>
+    <string name="btn_coffee">Recetas de Café</string>
+    <string name="btn_matcha">El Rincón del Matcha</string>
+    <string name="btn_breakfast">Desayunos Nómadas</string>
+    <string name="btn_equipment">Equipaje del Barista</string>
+    <string name="author_name">Desarrollado por Laura Rubio</string>
+</resources>
